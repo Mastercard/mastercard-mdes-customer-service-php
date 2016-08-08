@@ -1,0 +1,47 @@
+MasterCard\Api\MdesCustomerService\Search
+ [x] example mdes search token unique ref
+ [x] example mdes search account pan
+ [x] example mdes search token
+ [x] example mdes search comment id
+ [x] example mdes search payment app id
+
+MasterCard\Api\MdesCustomerService\SystemStatus
+ [x] example mdes system status
+
+MasterCard\Api\MdesCustomerService\TokenActivate
+ [x] example mdes token activate token unique ref
+ [x] example mdes token activate pan payment app
+
+MasterCard\Api\MdesCustomerService\TokenActivationMethods
+ [x] example mdes token activation methods
+
+MasterCard\Api\MdesCustomerService\TokenComments
+ [x] example mdes token comments
+
+MasterCard\Api\MdesCustomerService\TokenDelete
+ [x] example mdes token delete
+
+MasterCard\Api\MdesCustomerService\TokenResendActivationMethods
+ [x] example mdes token resend activation code
+
+MasterCard\Api\MdesCustomerService\TokenResetMobilePIN
+ [x] example mdes token reset mobilepin
+
+MasterCard\Api\MdesCustomerService\TokenStatusHistory
+ [x] example mdes token status history
+
+MasterCard\Api\MdesCustomerService\TokenSuspend
+ [x] example mdes token suspend
+
+MasterCard\Api\MdesCustomerService\TokenUnsuspend
+ [x] example mdes token unsuspend
+
+MasterCard\Api\MdesCustomerService\TokenUpdate
+ [x] example mdes token update pan exp token unique ref
+ [x] example mdes token update pan exp current pan
+ [x] example mdes token update issuer prod config single token by token unique ref
+ [x] example mdes token update issuer prod config token by pan
+
+MasterCard\Api\MdesCustomerService\Transactions
+ [x] example mdes transactions
+
