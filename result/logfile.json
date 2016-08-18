@@ -1,0 +1,330 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 21
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\SearchTest",
+    "tests": 5
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\SearchTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\SearchTest::test_example_mdes_search_token_unique_ref"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\SearchTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\SearchTest::test_example_mdes_search_token_unique_ref",
+    "status": "pass",
+    "time": 0.72422504425049,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\SearchTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\SearchTest::test_example_mdes_search_account_pan"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\SearchTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\SearchTest::test_example_mdes_search_account_pan",
+    "status": "pass",
+    "time": 0.63283896446228,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\SearchTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\SearchTest::test_example_mdes_search_token"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\SearchTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\SearchTest::test_example_mdes_search_token",
+    "status": "pass",
+    "time": 0.47874402999878,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\SearchTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\SearchTest::test_example_mdes_search_comment_id"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\SearchTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\SearchTest::test_example_mdes_search_comment_id",
+    "status": "pass",
+    "time": 0.44673895835876,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\SearchTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\SearchTest::test_example_mdes_search_payment_app_id"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\SearchTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\SearchTest::test_example_mdes_search_payment_app_id",
+    "status": "pass",
+    "time": 0.46082305908203,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\SystemStatusTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\SystemStatusTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\SystemStatusTest::test_example_mdes_system_status"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\SystemStatusTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\SystemStatusTest::test_example_mdes_system_status",
+    "status": "pass",
+    "time": 0.43663811683655,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenActivateTest",
+    "tests": 2
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenActivateTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenActivateTest::test_example_mdes_token_activate_token_unique_ref"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenActivateTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenActivateTest::test_example_mdes_token_activate_token_unique_ref",
+    "status": "pass",
+    "time": 0.46573209762573,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenActivateTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenActivateTest::test_example_mdes_token_activate_pan_payment_app"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenActivateTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenActivateTest::test_example_mdes_token_activate_pan_payment_app",
+    "status": "pass",
+    "time": 0.51735806465149,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenActivationMethodsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenActivationMethodsTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenActivationMethodsTest::test_example_mdes_token_activation_methods"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenActivationMethodsTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenActivationMethodsTest::test_example_mdes_token_activation_methods",
+    "status": "pass",
+    "time": 0.43270111083984,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenCommentsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenCommentsTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenCommentsTest::test_example_mdes_token_comments"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenCommentsTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenCommentsTest::test_example_mdes_token_comments",
+    "status": "pass",
+    "time": 0.47472596168518,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenDeleteTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenDeleteTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenDeleteTest::test_example_mdes_token_delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenDeleteTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenDeleteTest::test_example_mdes_token_delete",
+    "status": "pass",
+    "time": 0.43830394744873,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenResendActivationCodeTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenResendActivationCodeTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenResendActivationCodeTest::test_example_mdes_token_resend_activation_code"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenResendActivationCodeTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenResendActivationCodeTest::test_example_mdes_token_resend_activation_code",
+    "status": "pass",
+    "time": 0.4373791217804,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenResetMobilePINTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenResetMobilePINTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenResetMobilePINTest::test_example_mdes_token_reset_mobilepin"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenResetMobilePINTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenResetMobilePINTest::test_example_mdes_token_reset_mobilepin",
+    "status": "pass",
+    "time": 0.49959993362427,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenStatusHistoryTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenStatusHistoryTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenStatusHistoryTest::test_example_mdes_token_status_history"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenStatusHistoryTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenStatusHistoryTest::test_example_mdes_token_status_history",
+    "status": "pass",
+    "time": 0.45142602920532,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenSuspendTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenSuspendTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenSuspendTest::test_example_mdes_token_suspend"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenSuspendTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenSuspendTest::test_example_mdes_token_suspend",
+    "status": "pass",
+    "time": 0.4579758644104,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenUnsuspendTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenUnsuspendTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenUnsuspendTest::test_example_mdes_token_unsuspend"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenUnsuspendTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenUnsuspendTest::test_example_mdes_token_unsuspend",
+    "status": "pass",
+    "time": 0.43965005874634,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenUpdateTest",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenUpdateTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenUpdateTest::test_example_mdes_token_update_pan_exp_token_unique_ref"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenUpdateTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenUpdateTest::test_example_mdes_token_update_pan_exp_token_unique_ref",
+    "status": "pass",
+    "time": 0.44831800460815,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenUpdateTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenUpdateTest::test_example_mdes_token_update_pan_exp_current_pan"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenUpdateTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenUpdateTest::test_example_mdes_token_update_pan_exp_current_pan",
+    "status": "pass",
+    "time": 0.45340299606323,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenUpdateTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenUpdateTest::test_example_mdes_token_update_issuer_prod_config_single_token_by_token_unique_ref"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenUpdateTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenUpdateTest::test_example_mdes_token_update_issuer_prod_config_single_token_by_token_unique_ref",
+    "status": "pass",
+    "time": 0.49274897575378,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenUpdateTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenUpdateTest::test_example_mdes_token_update_issuer_prod_config_token_by_pan"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TokenUpdateTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TokenUpdateTest::test_example_mdes_token_update_issuer_prod_config_token_by_pan",
+    "status": "pass",
+    "time": 0.43422389030457,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TransactionsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TransactionsTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TransactionsTest::test_example_mdes_transactions"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MdesCustomerService\\TransactionsTest",
+    "test": "MasterCard\\Api\\MdesCustomerService\\TransactionsTest::test_example_mdes_transactions",
+    "status": "pass",
+    "time": 0.48975300788879,
+    "trace": [],
+    "message": "",
+    "output": ""
+}
