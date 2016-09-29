@@ -1,0 +1,23 @@
+TAP version 13
+ok 1 - MasterCard\Api\MdesCustomerService\SearchTest::test_example_mdes_search_token_unique_ref
+ok 2 - MasterCard\Api\MdesCustomerService\SearchTest::test_example_mdes_search_account_pan
+ok 3 - MasterCard\Api\MdesCustomerService\SearchTest::test_example_mdes_search_token
+ok 4 - MasterCard\Api\MdesCustomerService\SearchTest::test_example_mdes_search_comment_id
+ok 5 - MasterCard\Api\MdesCustomerService\SearchTest::test_example_mdes_search_payment_app_id
+ok 6 - MasterCard\Api\MdesCustomerService\SystemStatusTest::test_example_mdes_system_status
+ok 7 - MasterCard\Api\MdesCustomerService\TokenActivateTest::test_example_mdes_token_activate_token_unique_ref
+ok 8 - MasterCard\Api\MdesCustomerService\TokenActivateTest::test_example_mdes_token_activate_pan_payment_app
+ok 9 - MasterCard\Api\MdesCustomerService\TokenActivationMethodsTest::test_example_mdes_token_activation_methods
+ok 10 - MasterCard\Api\MdesCustomerService\TokenCommentsTest::test_example_mdes_token_comments
+ok 11 - MasterCard\Api\MdesCustomerService\TokenDeleteTest::test_example_mdes_token_delete
+ok 12 - MasterCard\Api\MdesCustomerService\TokenResendActivationCodeTest::test_example_mdes_token_resend_activation_code
+ok 13 - MasterCard\Api\MdesCustomerService\TokenResetMobilePINTest::test_example_mdes_token_reset_mobilepin
+ok 14 - MasterCard\Api\MdesCustomerService\TokenStatusHistoryTest::test_example_mdes_token_status_history
+ok 15 - MasterCard\Api\MdesCustomerService\TokenSuspendTest::test_example_mdes_token_suspend
+ok 16 - MasterCard\Api\MdesCustomerService\TokenUnsuspendTest::test_example_mdes_token_unsuspend
+ok 17 - MasterCard\Api\MdesCustomerService\TokenUpdateTest::test_example_mdes_token_update_pan_exp_token_unique_ref
+ok 18 - MasterCard\Api\MdesCustomerService\TokenUpdateTest::test_example_mdes_token_update_pan_exp_current_pan
+ok 19 - MasterCard\Api\MdesCustomerService\TokenUpdateTest::test_example_mdes_token_update_issuer_prod_config_single_token_by_token_unique_ref
+ok 20 - MasterCard\Api\MdesCustomerService\TokenUpdateTest::test_example_mdes_token_update_issuer_prod_config_token_by_pan
+ok 21 - MasterCard\Api\MdesCustomerService\TransactionsTest::test_example_mdes_transactions
+1..21
